@@ -1,2 +1,3 @@
 # CSharp-Assignment2
-CSharp-Assignment2
+
+Basic data input and query from a database ( requires SQL server running )
